@@ -24,13 +24,15 @@ __Üst Yönetim Komutları__
 
 ![image](https://user-images.githubusercontent.com/121359424/220184293-8dca6017-b987-48e5-8fb9-f1aeca7f2ba0.png)
 
-![image](https://user-images.githubusercontent.com/121359424/220184318-60b0f094-391c-4bd5-9feb-8f6f7f7611d9.png)
+![image](https://user-images.githubusercontent.com/121359424/221370842-c0d1fafd-53d1-48d7-a2f4-f436f69b1bf1.png)
 
 ![image](https://user-images.githubusercontent.com/121359424/220184369-bae5ce07-a8e7-4c8a-b5c1-38a1bbc62dad.png)
 
 ![image](https://user-images.githubusercontent.com/121359424/220184441-5473a488-c323-4c21-9a57-102e049af7a5.png)
 
 ![image](https://user-images.githubusercontent.com/121359424/220184520-f082a925-4ef4-42ec-844c-741d26c2a8d8.png)
+
+![image](https://user-images.githubusercontent.com/121359424/221370861-a81e37a3-1733-488f-bb7c-be19114298c8.png)
 
 __Yetkili Komutları__
 
